@@ -9,12 +9,12 @@ MindFlow focuses on quick editing and local storage. Create and edit maps offlin
 ## Features
 
 - **Quick editing** — Add subtopics and sibling topics, reorder branches, fold and unfold topics, and undo or redo changes.
-- **Flexible selection and navigation** — Drag a selection box, select multiple topics, zoom with the mouse wheel, and navigate with scrollbars or canvas panning.
+- **Flexible selection and navigation** — Drag a selection box, select multiple topics, and zoom with Ctrl + mouse wheel. Scroll with the wheel or Shift + wheel. Hover over the root or blank canvas for one second to show a hand cursor for panning; scrollbars, root dragging and middle-button panning remain available.
 - **Topic details** — Add notes, labels, links, colors, and markers. Apply supported formatting to multiple selected topics.
 - **Multiple sheets and layouts** — Keep several sheets in one document and choose mind map, logic chart, organization chart, and other layouts. New maps and sheets default to a right-facing logic chart; existing files retain their layouts.
-- **Local files** — Save in the native `.mf` format and drag files into the window to open them. Existing `.mindflow` files remain supported.
+- **Local files** — Save in the native `.mf` format and drag files into the window to open them. Existing `.mindflow` files remain supported. Native and imported maps open at 100% zoom with the root centered; Fit is available when you want to see the whole map.
 - **Open from Explorer** — Installation associates `.mf` files with MindFlow. Double-click a map to open it, including when MindFlow is already running.
-- **Update notifications** — Check public GitHub releases in the background, at most once every 24 hours, or check manually from Help. Automatic checks can be disabled. Connection failures do not interrupt editing; download updates from the release page when you choose.
+- **Update notifications** — Check public GitHub releases in the background, once every 24 hours after a successful check, or check manually from Help. Failed checks can retry after 15 minutes. Automatic checks can be disabled. Connection failures do not interrupt editing; download updates from the release page when you choose.
 - **Import and export** — Import `.xmind` files and export XMind, PNG, SVG, and Markdown files.
 - **Three interface languages** — Simplified Chinese, English, and Russian, with instant switching and a remembered preference. The built-in welcome map also follows the selected language; your own text is retained.
 - **A focused workspace** — Properties and outline tabs share the right sidebar, leaving more room for the map.
@@ -31,7 +31,7 @@ The English interface is shown above. Simplified Chinese and Russian are also av
 
 [**Download the latest release**](https://github.com/zscz668/MindFlow/releases/latest) · [All releases](https://github.com/zscz668/MindFlow/releases)
 
-1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.2 uses `MindFlow-0.2.2-Setup-x64.exe`.
+1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.3 uses `MindFlow-0.2.3-Setup-x64.exe`.
 2. Run the English-language installer and follow the instructions. By default, it installs for the current user in `%LOCALAPPDATA%\Programs\MindFlow`, without administrator privileges.
 3. Launch MindFlow. Use **语言 / Language / Язык** to choose the interface language.
 
