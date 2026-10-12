@@ -11,7 +11,7 @@ MindFlow focuses on quick editing and local storage. Create and edit maps offlin
 - **Quick editing** — Add subtopics and sibling topics, reorder branches, fold and unfold topics, and undo or redo changes.
 - **Flexible selection and navigation** — Drag a selection box, select multiple topics, zoom with the mouse wheel, and navigate with scrollbars or canvas panning.
 - **Topic details** — Add notes, labels, links, colors, and markers. Apply supported formatting to multiple selected topics.
-- **Multiple sheets and layouts** — Keep several sheets in one document and choose mind map, logic chart, organization chart, and other layouts.
+- **Multiple sheets and layouts** — Keep several sheets in one document and choose mind map, logic chart, organization chart, and other layouts. New maps and sheets default to a right-facing logic chart; existing files retain their layouts.
 - **Local files** — Save in the native `.mf` format and drag files into the window to open them. Existing `.mindflow` files remain supported.
 - **Open from Explorer** — Installation associates `.mf` files with MindFlow. Double-click a map to open it, including when MindFlow is already running.
 - **Update notifications** — Check public GitHub releases in the background, at most once every 24 hours, or check manually from Help. Automatic checks can be disabled. Connection failures do not interrupt editing; download updates from the release page when you choose.
@@ -31,7 +31,7 @@ The English interface is shown above. Simplified Chinese and Russian are also av
 
 [**Download the latest release**](https://github.com/zscz668/MindFlow/releases/latest) · [All releases](https://github.com/zscz668/MindFlow/releases)
 
-1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.1 uses `MindFlow-0.2.1-Setup-x64.exe`.
+1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.2 uses `MindFlow-0.2.2-Setup-x64.exe`.
 2. Run the English-language installer and follow the instructions. By default, it installs for the current user in `%LOCALAPPDATA%\Programs\MindFlow`, without administrator privileges.
 3. Launch MindFlow. Use **语言 / Language / Язык** to choose the interface language.
 
