@@ -10,6 +10,9 @@ MindFlow focuses on quick editing and local storage. Create and edit maps offlin
 
 - **Quick editing** — Add subtopics and sibling topics, reorder branches, fold and unfold topics, and undo or redo changes.
 - **Flexible selection and navigation** — Drag a selection box, select multiple topics, and zoom with Ctrl + mouse wheel. Scroll with the wheel or Shift + wheel. Hover over the root or blank canvas for one second to show a hand cursor for panning; scrollbars, root dragging and middle-button panning remain available.
+- **Visible drag previews** — Drag topics to an edge to reorder siblings, or to the center to change parents. Preview the new structure, highlighted parent and nearby sibling order before releasing. Press Esc to cancel.
+- **Text appearance** — Adjust font size and text color, including multiple selected topics. Topic boxes expand to fit each line; only explicit line breaks create new lines.
+- **Embedded pictures** — Paste with Ctrl + V, resize proportionally with four corner handles, or click to open an independent viewer with Fit, 100% and zoom. Pictures stay embedded when saving or copying branches between documents.
 - **Topic details** — Add notes, labels, links, colors, and markers. Apply supported formatting to multiple selected topics.
 - **Multiple sheets and layouts** — Keep several sheets in one document and choose mind map, logic chart, organization chart, and other layouts. New maps and sheets default to a right-facing logic chart; existing files retain their layouts.
 - **Local files** — Save in the native `.mf` format and drag files into the window to open them. Existing `.mindflow` files remain supported. Native and imported maps open at 100% zoom with the root centered; Fit is available when you want to see the whole map.
@@ -31,7 +34,7 @@ The English interface is shown above. Simplified Chinese and Russian are also av
 
 [**Download the latest release**](https://github.com/zscz668/MindFlow/releases/latest) · [All releases](https://github.com/zscz668/MindFlow/releases)
 
-1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.3 uses `MindFlow-0.2.3-Setup-x64.exe`.
+1. Open a release and download the Windows x64 installer from **Assets**. Version 0.2.4 uses `MindFlow-0.2.4-Setup-x64.exe`.
 2. Run the English-language installer and follow the instructions. By default, it installs for the current user in `%LOCALAPPDATA%\Programs\MindFlow`, without administrator privileges.
 3. Launch MindFlow. Use **语言 / Language / Язык** to choose the interface language.
 
